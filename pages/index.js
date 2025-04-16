@@ -24,7 +24,7 @@ export default () => (
       }
     `}</style>
 
-    <h1><Logo style={{ height: '1.45rem' }}/> Next.js on Heroku</h1>
+    <h1><Logo style={{ height: '1.45rem' }}/>The Solarpunk Agenda</h1>
 
     <p>Deploy <a href="https://nextjs.org/">Next.js</a> universal web apps on <a href="https://www.heroku.com/home">Heroku</a>.</p>
 
